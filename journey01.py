@@ -46,7 +46,7 @@ def get_all_frames(file_path, width, height, scale):
     
     return frames
     
-#storing player animation lists in a dict with corespondive directions
+#storing player animation lists in a dict with corespondive directions gaosijdhgoiasjdpogiajspdoigjapsoidgjapsoidgjapsoidgjapoi
 animations = {}
 animations['down'] = get_all_frames('down_animation.png', 31, 31, 3)
 animations['up'] = get_all_frames('up_animation.png', 31, 31, 3)
